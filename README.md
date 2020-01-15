@@ -63,7 +63,7 @@ Pros:
 
 **git submodule** might look like a **Silver Bullet**, but it's still clumsy to
 work with manually. We want to have a powerful yet simple interface for
-vendoring dependencies using this technology.qqq
+vendoring dependencies using this technology.qqqzzzzz
 
 **manul** can do it for us.
 
